@@ -1,4 +1,4 @@
-# CoreUI-Symfony-Template
+# CoreUI-Symfony-Template (Work in progress)
 
 This is a starting point for a CoreUI- Symfony-PHP project
 
@@ -24,6 +24,7 @@ Clone or download the repository
 
 # install app's dependencies
 $ npm install
+$ composer install
 ```
 
 
